@@ -32,7 +32,10 @@ print(c)
 
 
 ## Output:
-![image](https://github.com/karthikkrishna16/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/148514663/d6222f14-99dd-4f30-8b4e-8b6cfdbcc6a6)
+
+![image](https://github.com/karthikkrishna16/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/148514663/8bad6986-0c74-425f-908f-0a9d52885db7)
+
+
 
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
